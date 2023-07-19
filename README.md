@@ -11,3 +11,5 @@ the index page will not be the main page and instead the page will
 be a redirectory following from one of the blog cards. 
 These redirectories will not be available from the previous
 day's repository, only this one.
+
+Link: https://barcagiul.github.io/DailyUI-BlogPost-19-07-23/

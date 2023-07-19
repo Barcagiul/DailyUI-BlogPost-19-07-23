@@ -1,0 +1,32 @@
+@font-face {
+    font-family: PerandoCondensed;
+    src: url(personal/PERSONAL/PERANDORY/Perandory-Condensed.otf);
+}
+h1 {
+    font-family: PerandoCondensed;
+    text-align: center;
+    padding: 2rem;
+    font-size: 5rem;
+}
+
+.row > * > img {
+    width: 100%;
+}
+
+h2 {
+    padding: 1rem;
+    font-family: 'Della Respira', serif;
+}
+
+p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.8rem;
+}
+
+.btn {
+    font-size: 2rem;
+    width: 50%;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
